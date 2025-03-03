@@ -1,0 +1,1 @@
+<img src="{{ $getState() }}" alt="Logo Image" width="100" height="100">
